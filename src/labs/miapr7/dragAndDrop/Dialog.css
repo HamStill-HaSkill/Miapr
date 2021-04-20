@@ -1,0 +1,15 @@
+.Dialog {
+    position: absolute;
+    cursor: move;
+    top: 150px;
+    left: 520px;
+}
+
+.hidden {
+    display: none;
+}
+
+.Contents {
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
