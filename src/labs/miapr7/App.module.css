@@ -1,0 +1,40 @@
+.flex-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;  
+}
+
+.res-container {
+  padding-top: 10px;
+  padding-left: 40%;
+}
+
+.grid-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  padding-left: 10%;
+  padding-top: 20px;
+}
+
+.line {
+  display: flex;
+  flex-direction: row;
+  align-items: center;  
+}
+.graph {
+  position:absolute; 
+  top:370px; 
+  left:10px; 
+  width:1500px; 
+  height:500px;
+}
+#form {
+  width: 80%;
+  
+}
+#btn {
+  width: 10%;
+  margin-top: 40px;
+  margin-left: 10px;
+}
