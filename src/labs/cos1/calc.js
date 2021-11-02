@@ -25,9 +25,9 @@ const getPolyharmonicSignalFunctionLine = (_counters) =>
   {
     var signal = [];
 
-    let frequency = 1;
-    let startPhases = Math.PI / 4;
-    let amplitude = 3;
+    let frequency = 4;
+    let startPhases = Math.PI / 9;
+    let amplitude = 6;
 
     for (let i = 0; i < 5; i++) {
       for (let step = 0; step < _counters[i]; step++) {
