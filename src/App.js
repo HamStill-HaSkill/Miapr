@@ -28,6 +28,9 @@ function App() {
               <Link to="/cos1" className="nav-link">ЦОС 1</Link>
             </li>
             <li className="nav-item">
+              <Link to="/cos2" className="nav-link">ЦОС 2</Link>
+            </li>
+            <li className="nav-item">
               <Link to="/siamod12" className="nav-link">САИММОД 1-2</Link>
             </li>
           </ul>

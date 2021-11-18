@@ -1,0 +1,56 @@
+.flex-cont5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;  
+}
+
+.res-container5 {
+  padding-top: 10px;
+  padding-left: 40%;
+}
+
+.grid-container5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  padding-left: 10%;
+  padding-top: 20px;
+}
+
+.left {
+  position:absolute; 
+  left:10px;
+}
+
+.left button {
+  margin: 5px;
+}
+
+.right {
+  position:absolute; 
+  right:10px;
+}
+
+.right button {
+  margin: 5px;
+}
+.line1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;  
+}
+.graph5 {
+  position:absolute; 
+  top:240px; 
+  left:10px; 
+  width:1500px; 
+  height:500px;
+}
+#form5 {
+  width: 80%;
+  
+}
+#btn5 {
+  width: 50%;
+}

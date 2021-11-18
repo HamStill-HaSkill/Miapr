@@ -17,6 +17,7 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
+import Cos2 from './labs/cos2/Cos2';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -40,6 +41,9 @@ ReactDOM.render(
         </Route>
         <Route exact path="/cos1">
           <Cos1 />
+        </Route>
+        <Route exact path="/cos2">
+          <Cos2 />
         </Route>
         <Route exact path="/siamod12">
           <Siamod12 />
